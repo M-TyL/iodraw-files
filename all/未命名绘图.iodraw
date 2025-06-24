@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="868" dy="471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="323" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <object label="" aaa="aaa" id="0">
           <mxCell />
@@ -237,10 +237,10 @@
           <mxGeometry x="811.7048612607758" y="736.0010471107219" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-84" value="医保账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1102.3300000000002" y="685" width="67.33" height="29.17" as="geometry" />
+          <mxGeometry x="1088.0000000000002" y="685" width="67.33" height="29.17" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-86" value="医保余额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180.67" y="685" width="71.33" height="30" as="geometry" />
+          <mxGeometry x="1166.3400000000001" y="685" width="71.33" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
