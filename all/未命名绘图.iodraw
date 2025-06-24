@@ -239,7 +239,7 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-84" value="医保账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1102.3300000000002" y="685" width="67.33" height="29.17" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-86" value="医保余额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180.6666870117188" y="658.8333231608074" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
