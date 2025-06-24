@@ -199,7 +199,7 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-64" value="金额" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580.6551724137933" y="669.0689402613148" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-66" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-66" value="报销" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="625.3448612607758" y="656.9310471107219" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
