@@ -89,7 +89,7 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-12" value="OCR扫描" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="833" y="416" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-16" value="明细" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-16" value="家人" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1086" y="416" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-19" value="主页" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
@@ -108,7 +108,7 @@
           <mxGeometry x="650" y="557" width="108" height="41" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-34" value="扫描纸质账单&lt;div&gt;照片&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="823" y="531" width="145" height="47.36" as="geometry" />
+          <mxGeometry x="810.5" y="550.64" width="145" height="47.36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
