@@ -132,8 +132,8 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-39" value="关系人员" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="993" y="547" width="120" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-42" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1296" y="554.82" width="120" height="43.18" as="geometry" />
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-42" value="设置" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1296" y="546" width="120" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
