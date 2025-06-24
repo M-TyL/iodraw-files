@@ -158,16 +158,16 @@
             <mxPoint x="115.5" y="683" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-52" value="近期热点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-52" value="近期热点" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="239" y="666.0000104631696" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-53" value="医保余额" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-53" value="医保余额" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385.9985714285714" y="666" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-56" value="医保地区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-56" value="医保地区" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="57.004285714285736" y="666" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-57" value="医保医院" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-57" value="医保医院" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="127.00428571428574" y="666" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
