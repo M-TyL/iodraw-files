@@ -71,8 +71,8 @@
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-29" value="减少开支" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="854" y="562" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D-p_KPKLisj5SRtiXTZ9-32" value="关注家庭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="677.2941032858457" y="150.80000000000007" width="120" height="60" as="geometry" />
+        <mxCell id="D-p_KPKLisj5SRtiXTZ9-32" value="关注家庭健康" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="678" y="169.4" width="120" height="22.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
