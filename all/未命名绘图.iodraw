@@ -169,8 +169,8 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-56" value="医保地区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="9.004285714285736" y="666" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-57" value="医保地区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="75.00428571428574" y="666" width="60" height="30" as="geometry" />
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-57" value="医保医院" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79.00428571428574" y="666" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
