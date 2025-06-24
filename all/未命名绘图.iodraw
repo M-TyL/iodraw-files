@@ -200,7 +200,7 @@
           <mxGeometry x="615.7048612607758" y="666.0010471107219" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-68" value="纸质/照片扫描" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="853" y="535.64" width="60" height="30" as="geometry" />
+          <mxGeometry x="853" y="655" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
