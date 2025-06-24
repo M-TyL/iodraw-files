@@ -262,7 +262,7 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-96" value="设置关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="978.9972056361607" y="676.9999860491071" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-99" value="头像设置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-99" value="个人信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1334.3143136160713" y="657.0857282366071" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
