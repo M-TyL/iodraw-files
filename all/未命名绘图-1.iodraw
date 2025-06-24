@@ -18,6 +18,9 @@
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-p_KPKLisj5SRtiXTZ9-4" target="D-p_KPKLisj5SRtiXTZ9-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="539.5999999999999" y="214.40000915527344" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="352" y="194" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-4" value="家庭记账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -27,7 +30,10 @@
           <mxGeometry x="308" y="504" width="112" height="28" as="geometry" />
         </mxCell>
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-12" value="家人健康状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="479.5999999999999" y="184.40000915527344" width="120" height="60" as="geometry" />
+          <mxGeometry x="479.6" y="184.4" width="105.4" height="19.6" as="geometry" />
+        </mxCell>
+        <mxCell id="D-p_KPKLisj5SRtiXTZ9-13" value="家人健康状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479.6" y="299.2" width="105.4" height="19.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
