@@ -6,16 +6,8 @@
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="D-p_KPKLisj5SRtiXTZ9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-p_KPKLisj5SRtiXTZ9-1" target="D-p_KPKLisj5SRtiXTZ9-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="347.57148088727695" y="281.85716029575906" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-1" value="医疗记账" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="D-p_KPKLisj5SRtiXTZ9-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="287.57148088727695" y="251.85716029575906" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
