@@ -81,6 +81,11 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-10" value="明细" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="580" y="416" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-12" target="i3oCAvgbQXmbda7Xd2qp-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="883" y="538.363603071733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-12" value="OCR扫描" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="833" y="416" width="100" height="60" as="geometry" />
         </mxCell>
@@ -101,6 +106,9 @@
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-31" value="记账" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="557" width="108" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-34" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="823" y="498.363603071733" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
