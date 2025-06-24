@@ -202,7 +202,7 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-42" value="个人中心" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1296" y="546" width="120" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-44">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-44" target="i3oCAvgbQXmbda7Xd2qp-104">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1549" y="688.999982561384" as="targetPoint" />
           </mxGeometry>
@@ -277,6 +277,9 @@
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-101" value="报销账单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1410.999986049107" y="676.9957177734375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-104" value="功能设置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1519" y="673.999982561384" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
