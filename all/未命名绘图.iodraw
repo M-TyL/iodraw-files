@@ -248,6 +248,9 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-89" value="账号余额" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1171.9985714285713" y="676" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-92" value="报销情况" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1237.9985714285713" y="676" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
