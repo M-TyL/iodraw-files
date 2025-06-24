@@ -163,7 +163,7 @@
           <mxGeometry x="240" y="651.6000104631696" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-53" value="医保余额" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="388.02857142857135" y="543" width="60" height="30" as="geometry" />
+          <mxGeometry x="388.02857142857135" y="562.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
