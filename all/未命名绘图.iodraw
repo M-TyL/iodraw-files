@@ -150,10 +150,10 @@
           <mxGeometry x="1489" y="546" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-47" value="医保地区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="13" y="669" width="64" height="20" as="geometry" />
+          <mxGeometry x="51.5" y="673" width="64" height="20" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-48" value="医包医院" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="669" width="64" height="20" as="geometry" />
+          <mxGeometry x="128.5" y="673" width="64" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
