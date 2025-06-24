@@ -63,7 +63,7 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60e70716793133e9-14" target="i3oCAvgbQXmbda7Xd2qp-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60e70716793133e9-14">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60e70716793133e9-14" target="i3oCAvgbQXmbda7Xd2qp-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="418.02857142857135" y="558" as="targetPoint" />
           </mxGeometry>
@@ -161,6 +161,9 @@
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-52" value="近期热点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="651.6000104631696" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-53" value="医保余额" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="388.02857142857135" y="543" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
