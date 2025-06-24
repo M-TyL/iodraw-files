@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1226" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="390" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <object label="" woshi="png" id="0">
           <mxCell />
@@ -86,7 +86,7 @@
           <mxGeometry x="684.1" y="213" width="83.9" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-37" value="链接医保+个人记账" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="621.7646771599266" y="284.80000000000007" width="120" height="80" as="geometry" />
+          <mxGeometry x="662" y="300.4" width="120" height="48.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
