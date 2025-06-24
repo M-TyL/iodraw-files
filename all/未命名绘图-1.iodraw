@@ -57,8 +57,8 @@
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-21" value="个人帐单报销" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="481.38000000000005" y="633.83" width="114.65" height="31.35" as="geometry" />
         </mxCell>
-        <mxCell id="D-p_KPKLisj5SRtiXTZ9-25" value="减少家庭开支" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="694.4706887637867" y="570.0588091681986" width="80" height="80" as="geometry" />
+        <mxCell id="D-p_KPKLisj5SRtiXTZ9-25" value="快捷报销" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="865.0006887637867" y="551.9988091681987" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
