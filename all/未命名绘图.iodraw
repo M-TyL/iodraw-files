@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="672" dy="365" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2326" dy="365" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <object label="" aaa="aaa" id="0">
           <mxCell />
@@ -67,10 +67,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="60e70716793133e9-14" value="主页" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="264" y="402" width="100" height="60" as="geometry" />
+          <mxGeometry x="158" y="402" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60e70716793133e9-15" value="医保地区" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="106" y="544" width="120" height="40" as="geometry" />
+          <mxGeometry y="544" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-10" value="明细" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="518" y="402" width="100" height="60" as="geometry" />
@@ -85,10 +85,10 @@
           <mxGeometry x="1277" y="402" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-23" value="医疗热点事件" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="254" y="544" width="120" height="40" as="geometry" />
+          <mxGeometry x="148" y="544" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-26" value="医保余额" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="402" y="544" width="120" height="40" as="geometry" />
+          <mxGeometry x="296" y="544" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
