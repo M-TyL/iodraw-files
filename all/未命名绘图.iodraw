@@ -189,7 +189,7 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-39" value="关系人员" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="993" y="547" width="120" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-42">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-42" target="i3oCAvgbQXmbda7Xd2qp-99">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1364.3143136160713" y="672.0857282366071" as="targetPoint" />
           </mxGeometry>
@@ -261,6 +261,9 @@
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-96" value="设置关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="978.9972056361607" y="676.9999860491071" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-99" value="头像设置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1334.3143136160713" y="657.0857282366071" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
