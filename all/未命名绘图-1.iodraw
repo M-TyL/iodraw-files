@@ -79,22 +79,23 @@
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-29" value="减少开支" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="893" y="562" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D-p_KPKLisj5SRtiXTZ9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-p_KPKLisj5SRtiXTZ9-32" target="D-p_KPKLisj5SRtiXTZ9-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="975.3448612607758" y="330.9655130320582" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-32" value="关注家庭健康" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="678" y="169.4" width="120" height="22.8" as="geometry" />
         </mxCell>
+        <mxCell id="D-p_KPKLisj5SRtiXTZ9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D-p_KPKLisj5SRtiXTZ9-34" target="D-p_KPKLisj5SRtiXTZ9-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-34" value="详细开销记账明朗预算" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=24;" vertex="1" parent="1">
           <mxGeometry x="684.1" y="213" width="83.9" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D-p_KPKLisj5SRtiXTZ9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D-p_KPKLisj5SRtiXTZ9-37" target="D-p_KPKLisj5SRtiXTZ9-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-37" value="链接医保+个人记账" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="662" y="300.4" width="120" height="48.8" as="geometry" />
         </mxCell>
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-39" value="家庭健康状况分析" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="915.34" y="300.97" width="179.66" height="60" as="geometry" />
+          <mxGeometry x="957" y="243.20000000000002" width="179.66" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
