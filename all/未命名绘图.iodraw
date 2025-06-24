@@ -97,6 +97,11 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-16" value="家人" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1086" y="416" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1345.2120620265152" y="544.1818440755209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-19" value="我的" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1339" y="416" width="100" height="60" as="geometry" />
         </mxCell>
