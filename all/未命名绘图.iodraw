@@ -44,9 +44,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="561" />
-              <mxPoint x="297" y="561" />
+              <mxPoint x="282" y="561" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="60e70716793133e9-9" target="i3oCAvgbQXmbda7Xd2qp-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="60e70716793133e9-9" value="手机号登录" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="364" y="489" width="120" height="40" as="geometry" />
@@ -61,10 +64,10 @@
           <mxGeometry x="16" y="752" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-10" value="明细" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="247" y="592" width="100" height="60" as="geometry" />
+          <mxGeometry x="232" y="592" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-12" value="主页" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="127" y="612" width="100" height="60" as="geometry" />
+          <mxGeometry x="387" y="592" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
