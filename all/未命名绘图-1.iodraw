@@ -12,7 +12,7 @@
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-1" value="医疗记账" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D-p_KPKLisj5SRtiXTZ9-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D-p_KPKLisj5SRtiXTZ9-4" value="家庭记账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308" y="282" width="112" height="28" as="geometry" />
         </mxCell>
       </root>
