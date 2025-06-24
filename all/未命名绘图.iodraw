@@ -93,7 +93,7 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-26" value="医保余额" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="358" y="558" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-29" value="记账" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-29" value="账单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="518" y="557" width="108" height="41" as="geometry" />
         </mxCell>
       </root>
