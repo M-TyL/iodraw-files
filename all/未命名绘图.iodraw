@@ -140,6 +140,9 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-42" value="个人中心" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1296" y="546" width="120" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-44" value="个人中心" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1306" y="556" width="120" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
