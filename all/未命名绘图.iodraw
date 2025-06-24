@@ -181,6 +181,11 @@
             <mxPoint x="1186" y="446" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-39" target="i3oCAvgbQXmbda7Xd2qp-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1005.4572056361608" y="676.1999860491071" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-39" value="关系人员" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="993" y="547" width="120" height="51" as="geometry" />
         </mxCell>
@@ -248,6 +253,9 @@
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-92" value="报销情况" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1257.3685714285712" y="677" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-95" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="945.4572056361608" y="646.1999860491071" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
