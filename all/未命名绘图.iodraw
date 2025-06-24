@@ -232,7 +232,7 @@
           <mxGeometry x="811.7048612607758" y="736.0010471107219" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-84" value="身份证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1072.6666564941406" y="660.1666870117188" width="120" height="60" as="geometry" />
+          <mxGeometry x="1072.67" y="691" width="120" height="29.17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
