@@ -85,7 +85,7 @@
         <mxCell id="D-p_KPKLisj5SRtiXTZ9-34" value="详细开销记账明朗预算" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=24;" vertex="1" parent="1">
           <mxGeometry x="684.1" y="213" width="83.9" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D-p_KPKLisj5SRtiXTZ9-37" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="D-p_KPKLisj5SRtiXTZ9-37" value="链接医保+个人记账" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="621.7646771599266" y="284.80000000000007" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
