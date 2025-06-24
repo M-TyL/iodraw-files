@@ -164,6 +164,11 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-31" value="记账" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="702" y="558" width="108" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-37" target="i3oCAvgbQXmbda7Xd2qp-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1132.6666564941406" y="690.1666870117188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-37" value="账号信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1155" y="547" width="120" height="51" as="geometry" />
         </mxCell>
@@ -225,6 +230,9 @@
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-78" value="报销" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="811.7048612607758" y="736.0010471107219" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1072.6666564941406" y="660.1666870117188" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
