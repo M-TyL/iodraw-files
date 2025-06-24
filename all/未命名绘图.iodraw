@@ -94,7 +94,7 @@
             <mxPoint x="1050.9090835108902" y="550.4848891749527" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i3oCAvgbQXmbda7Xd2qp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-16">
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1233.2121434067235" y="547.575731682055" as="targetPoint" />
           </mxGeometry>
@@ -122,6 +122,15 @@
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-37" value="账号信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="991" y="547" width="120" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-16" target="i3oCAvgbQXmbda7Xd2qp-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1233.2121434067235" y="547.575731682055" as="targetPoint" />
+            <mxPoint x="1186" y="446" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-39" value="账号信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="548.82" width="120" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
