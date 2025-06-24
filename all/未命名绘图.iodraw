@@ -194,13 +194,13 @@
           <mxGeometry x="438.9989570985992" y="666.003818359375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-62" value="关系人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="509.93" y="665.9989318426725" width="60" height="30" as="geometry" />
+          <mxGeometry x="489" y="661.9989318426725" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-64" value="金额" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="577.9951724137933" y="665.9989402613147" width="60" height="30" as="geometry" />
+          <mxGeometry x="557.0651724137933" y="661.9989402613147" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-66" value="报销" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="631.3448612607758" y="666.0010471107219" width="60" height="30" as="geometry" />
+          <mxGeometry x="610.4148612607759" y="662.0010471107219" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
