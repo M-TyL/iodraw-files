@@ -158,6 +158,9 @@
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-31" target="i3oCAvgbQXmbda7Xd2qp-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i3oCAvgbQXmbda7Xd2qp-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i3oCAvgbQXmbda7Xd2qp-31" target="i3oCAvgbQXmbda7Xd2qp-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-31" value="记账" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="702" y="558" width="108" height="41" as="geometry" />
         </mxCell>
@@ -212,16 +215,16 @@
           <mxGeometry x="853" y="655" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-75" value="日期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="637.4189570985992" y="756.003818359375" width="60" height="30" as="geometry" />
+          <mxGeometry x="640.2889570985992" y="740.003818359375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-76" value="关系人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="687.42" y="751.9989318426725" width="60" height="30" as="geometry" />
+          <mxGeometry x="690.29" y="735.9989318426725" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-77" value="金额" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="755.4851724137933" y="751.9989402613147" width="60" height="30" as="geometry" />
+          <mxGeometry x="758.3551724137933" y="735.9989402613147" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i3oCAvgbQXmbda7Xd2qp-78" value="报销" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="808.8348612607758" y="752.0010471107219" width="60" height="30" as="geometry" />
+          <mxGeometry x="811.7048612607758" y="736.0010471107219" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
